@@ -15,7 +15,7 @@
 - **Interactive Segmentation**: Point-based and box-based segmentation modes
 - **Real-time Processing**: Optimized for live video and camera applications
 
-## 🏗️ Project Architecture
+##£ 🏗️ Project Architecture
 
 This repository contains multiple implementations and applications showcasing EdgeSAM's versatility:
 
