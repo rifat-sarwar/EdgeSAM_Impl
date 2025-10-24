@@ -6,7 +6,7 @@
 
 **EdgeSAM** is an efficient implementation of the Segment Anything Model (SAM) optimized for edge devices and mobile applications. Built on the foundation of Meta's SAM, EdgeSAM provides high-quality image segmentation with significantly reduced computational requirements, making it ideal for real-time applications on mobile devices, web browsers, and embedded systems.
 
-## 🚀 Key Features
+### 🚀 Key Features
 
 - **Lightweight Architecture**: Optimized for edge devices with minimal memory footprint
 - **High Performance**: Fast inference on CPU and mobile GPUs
